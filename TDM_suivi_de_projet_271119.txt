@@ -1,9 +1,14 @@
-					SUIVI DE PROJET
+					Table Des Matières "SUIVI DE PROJET"
+
+
 
 
 Un suivi est l'ensemble des activités visant à organiser le bon déroulement d’un projet et à en atteindre les objectifs.  
+
 Il existe deux approches de suivi de projet : le classique (topdown,waterfall) et l’agile (scrum,kanban,stan up).
+
 un projet a une date de début et date de fin.
+
 on utilise des jalons et des flags pour determiner les écheances dans un projet.
 
 

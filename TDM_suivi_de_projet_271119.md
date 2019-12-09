@@ -1,5 +1,5 @@
-SUIVI DE PROJET
-===============
+Table Des Matières "SUIVI DE PROJET"
+====================================
 
 
 
@@ -20,9 +20,9 @@ Un Projet a une date de début et date de fin.
 On utilise des jalons et des flags pour determiner les échéances dans un Projet.
 
 
-- se poser la bonne question "trouver le problème"										>>> acquis
+- se poser la bonne question "trouver le problème"----------------------------------------------------------------------------------->>> acquis
 
-- utiliser la methode **"SWOT"**: [la méthode **SWOT**](https://fr.wikipedia.org/wiki/SWOT_(m%C3%A9thode_d%27analyse))		>>> acquis
+- utiliser la methode **"SWOT"**: [le lien la méthode **SWOT**](https://fr.wikipedia.org/wiki/SWOT_(m%C3%A9thode_d%27analyse))------->>> acquis
 
 - approche classique: (topdown, waterfall)											>>> en cours d'acquisition
 
