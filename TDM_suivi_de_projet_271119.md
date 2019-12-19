@@ -11,7 +11,7 @@ Il existe deux approches de suivi de Projet :
 
 - le classique (topdown,waterfall).
 
-- l’agile (scrum,kanban,stan up).
+- l’agile (scrum,kanban,stand up).
 
 
 Un Projet a une date de début et date de fin.
@@ -19,6 +19,7 @@ Un Projet a une date de début et date de fin.
 
 On utilise des jalons et des flags pour determiner les échéances dans un Projet.
 
+Les étapes à suivre pour le suivi d'un Projet:
 
 - se poser la bonne question "trouver le problème"**>>> acquis**
 
