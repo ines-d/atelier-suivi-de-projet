@@ -8,40 +8,40 @@ Documentation : Table Des Matières
 " Suivi De Projet"
 ===================
 
-Un suivi est l'ensemble des activités visant à organiser le bon déroulement d’un projet et à en atteindre les objectifs.
 
-il existe 2 approches de suivi de Projet:
 
 .. toctree::
-   :maxdepth: 2
-il existe 2 approches de suivi de Projet:
+   :numbred: 
 
-- L'approche Classique : (Topdown, Waterfall)
-- L'approche Agile : (Scrum, Kanban, Stand up)
+    Définition 
+
+    Méthode_de_suivi_de_projet :
+
+    Approche_classique
+   
+    Approche_agile
+   
+
+    Etapes à suivre pour le Suivi de Projet:
+ 
 
 
-Un Projet a une date de début et date de fin.
+    se poser la bonne question "trouver le problème"
+  
 
-On utilise des jalons et des flags pour determiner les échéances dans un Projet.
+    utiliser la methode **"SWOT"**: [le lien la méthode **SWOT**](https://fr.wikipedia.org/wiki/SWOT_(m%C3%A9thode_d%27analyse))
+ 
 
+    approches classique ou agile 
+ 
+    KPI "indicateurs clès de performance"
+  
+    push sur github afin d'optimiser le suivi du projet
 
-Les étapes à suivre pour le suivi d'un Projet:
-
-- se poser la bonne question "trouver le problème"
-
-- utiliser la methode **"SWOT"**: [le lien la méthode **SWOT**](https://fr.wikipedia.org/wiki/SWOT_(m%C3%A9thode_d%27analyse))
-
-- approche classique: (topdown, waterfall)
-
-- approche agile :(stand up, scum, kanban)
-
-- KPI "indicateurs clès de performance"
-
-- push sur github afin d'optimiser le suivi du projet
-
-- utilisation d'un graphique pour avoir une vision globale du Projet
-
-- utilisation d'une Roadmap sur Trello pour l'organisation du suivi du Projet
+    utilisation d'un graphique pour avoir une vision globale du Projet
+  
+    utilisation d'une Roadmap sur Trello pour l'organisation du suivi du Projet
+  
 
    :caption: Contents:
 
