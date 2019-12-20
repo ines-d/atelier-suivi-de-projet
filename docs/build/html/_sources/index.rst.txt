@@ -1,51 +1,18 @@
 .. atelier suivi de projet documentation master file, created by
-   sphinx-quickstart on Mon Dec  9 20:41:04 2019.
+   sphinx-quickstart on Thu Dec 19 17:04:11 2019.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Documentation : Table Des Matières
-===================================
-" Suivi De Projet"
-===================
-
-
+Welcome to atelier suivi de projet's documentation!
+===================================================
 
 .. toctree::
-   :numbred: 
-
-    Définition 
-
-    Méthides "Suivi de Projet" 
-
-    Il existe 2 approches pour le suivi d'un projet.
-
-    Approche_classique
-   
-    Approche_agile
-   
-
-    Etapes à suivre pour le Suivi de Projet:
- 
-
-
-    se poser la bonne question "trouver le problème"
-  
-
-    utiliser la methode **"SWOT"**: [le lien la méthode **SWOT**](https://fr.wikipedia.org/wiki/SWOT_(m%C3%A9thode_d%27analyse))
- 
-
-    approches classique ou agile 
- 
-    KPI "indicateurs clès de performance"
-  
-    push sur github afin d'optimiser le suivi du projet
-
-    utilisation d'un graphique pour avoir une vision globale du Projet
-  
-    utilisation d'une Roadmap sur Trello pour l'organisation du suivi du Projet
-  
-
+   :maxdepth: 2
    :caption: Contents:
+
+   Définition
+   méthode_de_suivi_de_projet
+   étapes_à_suivre
 
 
 
