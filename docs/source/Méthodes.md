@@ -1,5 +1,5 @@
-méthode_de_suivi_de_projet
-===========================
+Méthodes :
+===========
 il existe 2 méthodes de suivi de projet
 
 Classique

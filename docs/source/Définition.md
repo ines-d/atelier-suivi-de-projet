@@ -1,6 +1,5 @@
-Définitions
-============
-
+Définition : 
+=============
 Un suivi est l'ensemble des activités visant à organiser le bon déroulement d’un projet et à en atteindre les objectifs. 
 
  

@@ -1,5 +1,5 @@
-Les étapes à suivre 
-====================
+Etapes :
+=========
 se poser la bonne question "trouver le problème"
 -------------------------------------------------
 utiliser la methode **"SWOT"**: [le lien la méthode **SWOT**](https://fr.wikipedia.org/wiki/SWOT_(m%C3%A9thode_d%27analyse))

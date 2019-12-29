@@ -1,19 +1,20 @@
-.. atelier suivi de projet documentation master file, created by
-   sphinx-quickstart on Thu Dec 19 17:04:11 2019.
+.. Suivi De Projet documentation master file, created by
+   sphinx-quickstart on Sun Dec 29 14:58:15 2019.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to atelier suivi de projet's documentation!
-===================================================
+Bienvenue à la documentaion "Suivi De Projet"
+==============================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-   Définition
-   méthode_de_suivi_de_projet
-   étapes_à_suivre
 
+   
+   Définition
+   Méthodes
+   Etapes
 
 
 Indices and tables
